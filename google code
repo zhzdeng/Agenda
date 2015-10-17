@@ -1,0 +1,1 @@
+python cpplint.py --filter=-legal/copyright,-build/header_guard,-build/include,-readability/streams src/*.h src/*.cpp
